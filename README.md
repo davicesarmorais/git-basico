@@ -1,6 +1,6 @@
 # 📄 Meu Currículo
 
-Este projeto é um currículo simples desenvolvido em HTML e CSS. O objetivo é fornecer uma visualização clara e organizada das minhas informações.
+Este projeto é um currículo simples desenvolvido em HTML e CSS.
 
 ## 📋 Estrutura do Projeto
 
